@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Triumph Ayak koruyucusu
+
+Özet:
+Bunu motosikletim için yaptım ve harika görünüyor, zafer caddesi üçlüsü 2013 için yaptım ama diğer motosikletlere de uyacağını düşünüyorum, delikler arasındaki mesafe 51 mm. Güncelleme 20/09/2014: delikleri yeniden boyutlandırdı (M6) ve onları daha geriye iterek güzel bir şekilde uymasını sağladı Güncelleme 25/09/2014: Yüklenen tasarım V2 delikler arasındaki mesafeyi ayarladı Başka bir tasarım denemek istiyorsanız lütfen bana izin verin biliyorum P.D. her şeyi yeniden boyutlandırmanız gerekebilir
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Triumph Ayak koruyucusu
+Kod / referans: 462880
+Model açıklamasındaki ad: Triumph Ayak koruyucusu
+Açıklama: Eski dosya adındaki bu sayı için kesin OEM veya model sitesi eşleşmesi bulunamadı. Model adı açıklamadaki işlevden alınmıştır; sayı referans olarak korunmuştur.

@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Vespa üst çanta taşıyıcı kapağı
+
+Özet:
+MERHABA! İnternette aradıktan sonra Vespa'nın çirkin braketyi ve Piaggio parça numarası 1B000815 olan arka çanta rafının cıvatalarını gizlemek için bize plastik bir kapak sunmayı unuttuğunu gördüm, ben de bir tane oluşturdum
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Vespa üst çanta taşıyıcı kapağı
+Kod / referans: 1B000815
+Katalog veya kaynak adı: Vespa üst çanta taşıyıcısı
+Açıklama: Kod komple üst çanta taşıyıcısına aittir; mevcut 3D model bu taşıyıcı için kapaktır.

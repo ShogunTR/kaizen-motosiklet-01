@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Aprilia RSV Mille egzoz susturucusu koruyucusu
+
+Özet:
+Tersine mühendislikle modellenmiş Aprilia RSV Mille egzoz susturucusu koruyucusu (AP8138565). Dosya, orijinal parçanın taramasını içeriyor. Orijinal parça hasarlı olduğundan, baskının kusursuz oturması için bazı değişiklikler gerekebilir.
+Orijinal parça PA6.6 + %15 GF malzemeden yapılmıştır.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Aprilia RSV Mille egzoz susturucusu koruyucusu
+Kod / referans: AP8138565
+Katalog veya kaynak adı: Aprilia RSV Mille egzoz susturucusu koruyucusu

@@ -1,0 +1,17 @@
+Kaizen Trim
+
+BMW far arka kapağı
+
+Özet:
+LED dönüşümü için, 2004 BMW R1200GS modeline uygun daha büyük bir far toz kapağı. Bu modele uyduğu doğrulandı; daha yeni modellere de uyması bekleniyor.
+Bu tip ampullerde genellikle bulunan soğutucu veya küçük fan nedeniyle orijinal kapak (parça numarası 63127674984) sığmıyor; delme ve değişiklik gerekiyor.
+İnterneti taradım ama eski GS motosikletine uyan veya açık kaynaklı ve ücretsiz bir tasarım bulamadım. Bu yüzden kendim yapmaya karar verdim.
+Aynı kilitleme prensibini kullanır; su geçirmezlik için orijinal O-ring gereklidir. Kablolar ve bağlantılar için yeterli alanla LED ampullerin çoğuna uyması bekleniyor.
+Üstteki kilitleme dişlerinin altı dışında destek gerekmez. Cura'da desteği yalnızca üstte basacak şekilde ayarlayabilirsiniz; resimlere bakın.
+Yorum ve önerilerinizi paylaşabilirsiniz. Basıp başka bir model yılına uyduğunu görürseniz, liste oluşturabilmem için haber verin.
+Saygılarımla.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: BMW far arka kapağı
+Kod / referans: 63127674984
+Katalog veya kaynak adı: BMW far arka kapağı

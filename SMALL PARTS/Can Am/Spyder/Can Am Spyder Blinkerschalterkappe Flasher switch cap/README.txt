@@ -1,0 +1,8 @@
+Kaizen Trim
+
+Can-Am Spyder Blinkerschalterkappe / Flaşör anahtar kapağı
+
+Özet:
+İngilizceye çevirisi için aşağıya bakın. sinyalleryi manuel olarak sıfırlamak, 2013 model yılı civarındaki mevcut Spyder modellerinde, özellikle de kalın eldivenlerle, biraz zordur. Basmalı butonun arka tarafının çok dar olması nedeniyle, çoğu zaman tam merkeze vurmazsınız ve bu nedenle sinyalyi kapatmazsınız, aynı yönde veya diğer yönde kapatırsınız. Kapak manuel sıfırlamayı iyileştirir. Gösterge anahtarının üzerindeki düğmeye herhangi bir alet gerekmeden kolayca yerleştirilebilir ve hiçbir kalıntı bırakmadan tekrar çıkarılabilir:
+Kapağı, iç pimin bulunduğu bölme üstte olacak şekilde tutun. Kapağı yakl. 45° çevirin ve pimi düğmedeki girintiye yerleştirin. Kapağı parmağınızla üst kenara sabitleyin. Kapağı alt kenarına hafifçe bastırarak düğmenin üzerine oturtun. Not: Fotoğrafların hakları Alman Spyder Forumunun yöneticisine (barbarossa@spyderforum.de) aittir (https://www.spyderforum.de/).Flasher anahtar başlığı Yaklaşık 2013 model yılından itibaren mevcut Spyder modellerindeki göstergenin manuel olarak sıfırlanması biraz zordur,
+özellikle kalın eldivenler giyerken. Basmalı butonun arka tarafının çok dar olması nedeniyle, çoğu zaman tam olarak merkeze vuramazsınız ve bu nedenle göstergeyi kapatmazsınız, ancak aynı veya diğer yönde kapatırsınız. Kapak manuel sıfırlamayı kolaylaştırır. Gösterge anahtarının üzerindeki düğmeye alet gerekmeden kolayca takılabilir ve ayrıca herhangi bir kalıntı bırakmadan tekrar çıkarılabilir: Kapağı, iç pimin bulunduğu yüzey üstte olacak şekilde tutun. Kapağı öne doğru eğin.

@@ -1,0 +1,8 @@
+Kaizen Trim
+
+2022-2023 Honda Grom Arka arka çamurluk iptal aparatı
+
+Özet:
+Birkaç hafta önce yeni bir 2023 Grom aldım ve arka çamurluk iptal aparatı için herhangi bir model olmadığını fark ettim. Bu şeye eklenmiş FreeCAD dosyasını bulacaksınız. Lütfen değiştirmekten ve yeniden yüklemekten çekinmeyin, sadece atfedilmemi rica ediyorum. Yazdırma:-Minimum %40 dolgu. Birisinin bu yüzden tabağını kaybetmemesini tercih ederim.-PLA KULLANMAYIN. Bu baskı en az PETG formatında yazdırılmalıdır: ABS önerilir.-Yatağa yapıştırma ve gerektiği gibi destekler. Kurulum Talimatları: Mevcut çamurluğu çıkarın ve sökün. Montajı
+Plaka Işık tabanını arka çamurluk iptal aparatı'ye takın ve ışık kapağının yönünü kontrol ederek cıvatalayın. Şimdilik ışık kapağını kapalı bırakın. Daha sonra montaj vidası deliklerine erişmek için onu çıkarmanız gerekecek. sinyallernin her birini monte edin ve cıvatalayın. Yönünüzü tekrar kontrol edin. Tüm elektrik bağlantınızı arka çamurluk iptal aparatı'de sağlanan elektrik geçişinden geçirin ve sinyalleryi kablo demetindeki renk kodlu konumlarına bağlayın. Kablo demetini gövdeden geçirin, demetini motosikletin elektrik sistemine bağlayın ve her ikisini de test edin.
+sinyaller ve plaka lambası. Test edildikten sonra arka çamurluk iptal aparatı'yi motosiklete cıvatalayın. Bunun için 4x m5x16 cıvata, pul ve somun kullandım. Plaka aydınlatma kapağını monte edin. Plaka taşıyıcıyı monte edip istediğiniz pozisyona ayarlayın. Bunun için 2x m5x16 cıvata, pul ve somun kullandım. GÜNCELLEME: Yeni bir plaka montajı v2.3 ekledim. Şokları dibe vuran ve tam boyutlu plaka montajını yok eden bir KILLER çukuruna çarptım. Bu yeni plaka montajı 1/2 yüksekliktedir ve en azından benzer bir durumda sizin için yardımcı olacaktır. Herkese güvenli sürüşler!

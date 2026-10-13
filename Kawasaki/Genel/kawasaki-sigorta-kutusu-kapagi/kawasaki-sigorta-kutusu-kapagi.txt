@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Kawasaki sigorta kutusu kapağı
+
+Özet:
+Bu, Kawasaki Brute Force 750 ATV için bir sigorta kutusu kapağıdır (kapak). Sigorta kutusu düzeneği 26004-0016'ya uyar. 2005 - 2012 Brute Force ve Teryx'e uygundur. UV (SLA) yazıcıda ABS benzeri bir reçine kullanmanın en iyi sonucu verdiğini buldum. Standart bir epoksi kullanırsanız çok kırılgan hale gelir ve normal kullanımda çatlayabilir. FDM yazıcıda yazdırmayı denemedim.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Kawasaki sigorta kutusu kapağı
+Kod / referans: 26004-0016
+Katalog veya kaynak adı: Kawasaki sigorta kutusu takımı
+Açıklama: Kod komple sigorta kutusu takımına aittir; mevcut model kutunun kapağıdır.

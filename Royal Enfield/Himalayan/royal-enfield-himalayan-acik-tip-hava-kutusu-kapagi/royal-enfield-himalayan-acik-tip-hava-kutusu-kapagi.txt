@@ -1,0 +1,15 @@
+Kaizen Trim
+
+Royal Enfield Himalayan açık tip hava kutusu kapağı
+
+Özet:
+Royal Enfield Himalaya motosikleti için Açık Hava Kutusu kapağı. Bu, 587810/A parçasının yerine kullanılacaktır. OEM kapağında, kurulumdan önce çıkarılması ve bu şeye eklenmesi gereken bir conta (parça 587858/A) bulunur. Bunu yalnızca 2021 modelinde test ettim ancak bildiğim kadarıyla Himalayan 411 modellerinde hava kutusu boyutlarında herhangi bir güncelleme yapılmadı.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Royal Enfield Himalayan açık tip hava kutusu kapağı
+Kod / referans: 587810
+Katalog veya kaynak adı: Royal Enfield Himalayan hava filtresi kutusu kapağı
+Açıklama: Katalogda tam kod 587810/A olarak geçiyor.
+Kod / referans: 587858
+Katalog veya kaynak adı: Royal Enfield Himalayan hava filtresi kutusu kapağı
+Açıklama: Katalogda tam kod 587858/A olarak geçiyor.

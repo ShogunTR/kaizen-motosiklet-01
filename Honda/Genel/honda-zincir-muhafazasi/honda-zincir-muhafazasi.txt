@@ -1,0 +1,11 @@
+Kaizen Trim
+
+Honda zincir muhafazası
+
+Özet:
+Bu zincir muhafazası, OEM korumasının yedek parçası olarak tasarlanmıştır. Honda XRV650 ve XRV750 ile Sahra çölünde yapılan bir yolculuk sırasında CollorFabb'ın PA-CF'sinde test edildi.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Honda zincir muhafazası
+Kod / referans: 52156KB7000
+Katalog veya kaynak adı: Honda zincir muhafazası

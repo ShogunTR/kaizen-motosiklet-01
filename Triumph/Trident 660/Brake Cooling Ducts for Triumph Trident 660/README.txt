@@ -1,0 +1,9 @@
+Kaizen Trim
+
+Triumph Trident 660 için Fren Soğutma Kanalları
+
+Özet:
+Triumph Trident 660 için fren soğutma kanalları: sevgili motosikletimiz için yarış görünümü! Gerekli donanım: 2x M6 vidalar, pullu ve Yiv kilitli rondela (fren diskleriyle teması önlemek için vidanın uzunluğunu dikkatlice kontrol edin, vida dişli destekden çıkmamalıdır)M8 dişli çubukM8 kendinden kilitli somunlar ve ilgili pullarBaskı ipuçları: iki kez yazdırın " Her iki tarafta birer tane olmak üzere 2 fişe sahip olmak için L_top_1.0 ". PETG veya daha iyisini kullanın; yüksek performanslı polimer önerilir. Kanalları ön düzlem aşağı bakacak şekilde yazdırın, desteği yalnızca
+büyük delik, ana yapı destek olmadan basılabilir. Diğer bileşenler için destek kullanın. Parçaları (tapalar, burçlar ve kanal deliği) takmak için dikişleri ortadan kaldırmak için küçük bir eğe veya zımpara kağıdı kullanın. Acele etmeyin! İyi sonuçlar için hızları 200 mm/s veya altına ayarlayın (Yazıcı performansı izin veriyorsa). Dikişi gizlemek için janta bakan tarafa yerleştirin NOT: Sağ kanal sol taraftan yansıtılır, ancak sağ tarafta ABS sensörü yoldadır: parçayı takmak için bir yuva açmak gerekir. Dremel high'ı kullanmanızı tavsiye ederim
+Temiz sonuçlar için hızlı metal kesici alet.DÜZENLEME: Sol kanal ile çatal arasındaki boşluğu kapatmak için ek bir ayar sacı ekledim. Sağlanan G kodu, Generic PETG filament kullanılarak Creality K1C yazıcı için yazılmıştır. Aksi takdirde, özel yazıcınız/filament kombinasyonu için Gcode'u dilimleyin ve yazın.filament, baskı öncesinde ve baskı süresi boyunca bir filament kurutucudaydı.Bu içeriği paylaşmaktan çekinmeyin, ancak lütfen adınızı belirtin! SORUMLULUK REDDİ: Bu ürünün tasarımcısı ve yaratıcısı, herhangi bir yaralanma, hasar, kayıp veya durumla ilgili hiçbir sorumluluk veya yükümlülük kabul etmez.
+Bu öğenin kullanımından, yanlış kullanımından veya yanlış kullanılmasından kaynaklanan doğrudan, dolaylı, tesadüfi veya sonuç olarak ortaya çıkan zararlar.

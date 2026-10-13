@@ -1,0 +1,25 @@
+Kaizen Trim
+
+BMW sol kumanda kapatma kapağı
+
+Özet:
+İngilizce metnin çevirisi:
+BMW R1200GS sol gidon kumandası kapağı (parça numarası 61317670033). Bu, orijinal parçanın kopyasıdır. Ekli dosya STEP formatında olduğundan bunu temel alarak yeni bir model oluşturabilirsiniz.
+Örneğin fazladan bir düğme takmam gerekiyor; bu nedenle şu kapakta düğme için ek alan ekleyeceğim:
+PETG ile sorunsuz basıldı. Orijinal parça PA6 malzemeden yapılmıştır.
+
+Rusça metnin çevirisi:
+BMW R1200GS sol gidon kumandası kapağı (parça numarası 61317670033). Bu, orijinal parçanın kopyasıdır. Ekli dosya STEP formatında bir model içerdiğinden bunu temel alarak yeni bir model oluşturabilirsiniz.
+Örneğin fazladan bir düğme takmam gerekiyor; bu nedenle şu kapakta düğme için ek alan ekleyeceğim:
+PETG ile sorunsuz basıldı. Orijinal parça PA6 malzemeden yapılmıştır.
+
+💥Bağış bağlantısı: https://boosty.to/prosmp/donate
+💥Tüm iletişim bilgilerimiz tek sayfada: https://hipolink.me/prosmp
+YouTube kanalı: https://www.youtube.com/@prosmp
+Telegram kanalımız: https://t.me/prosmp
+VKontakte grubu: https://vk.com/pro_smp
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: BMW sol kumanda kapatma kapağı
+Kod / referans: 61317670033
+Katalog veya kaynak adı: BMW sol kumanda kapatma kapağı

@@ -1,0 +1,13 @@
+Kaizen Trim
+
+KTM far yükseltilmiş vida mili
+
+Özet:
+Bu, 2017-2019 Superduke R'de ve diğer birçok modelde kullanılan kırılgan OEM parçasını (parça numaraları 61614019000 ve 61614019100) değiştirmek için yeniden tasarlanmış bir vida milidir. TPU'yi yalnızca %65 dolgu ve destek baskı plakasına dokunarak kullanılmalıdır. Başka herhangi bir malzeme yeniden tasarımın amacını boşa çıkarır.  OEM vidasını yeniden kullanır. Ok ileriye dönüktür.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: KTM far yükseltilmiş vida mili
+Kod / referans: 61614019000
+Katalog veya kaynak adı: KTM far ayar mili
+Kod / referans: 61614019100
+Katalog veya kaynak adı: KTM far ayar vidalı mili

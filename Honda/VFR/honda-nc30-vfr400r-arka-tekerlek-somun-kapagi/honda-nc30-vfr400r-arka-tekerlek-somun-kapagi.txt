@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Honda NC30 VFR400R arka tekerlek somun kapağı
+
+Özet:
+42603MR8000 nolu orijinal honda yedek parçası artık mevcut olmadığından ve kullanılmış parça olarak da bulamadığım için bunu tasarladım. Herhangi bir gerçek parça bulamadığım için dış şekli için resimlere dayanarak modelledim ve iç boyutu doğrudan sahip olduğum NC30'dan aldım. Dış yüzeyi plakaya yerleştirerek herhangi bir destek olmadan baskı yaptım ama siz farklı bir yaklaşım deneyebilirsiniz. Umarım herkes bu kısmı kendi motosikletini tamamlamak için kullanabilir!
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Honda NC30 VFR400R arka tekerlek somun kapağı
+Kod / referans: 42603MR8000
+Katalog veya kaynak adı: Honda NC30 VFR400R arka tekerlek somun kapağı
+Açıklama: Katalogdaki tireli yazımı 42603-MR8-000.

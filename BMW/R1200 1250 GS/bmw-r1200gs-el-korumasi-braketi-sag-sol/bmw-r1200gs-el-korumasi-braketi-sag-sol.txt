@@ -1,0 +1,29 @@
+Kaizen Trim
+
+BMW R1200GS el koruması braketi (sağ/sol)
+
+Özet:
+2007 BMW R1200GS'imin sağ el koruması braketini kırdım.
+Parçanın fiyatından fazla kargo ücreti ödemek istemediğim için kendim tasarladım.
+Tek deliğin bulunduğu kısmı yatay yerleştirerek bastım. Bu yön, tasarım için en sağlam katmanları sağlıyor.
+Sol brakete ihtiyacınız varsa modeli aynalayın veya benden aynalanmış dosyayı isteyin.
+OEM:
+32727684576
+7684576
+7 684 576
+32727684575
+7684575
+7 684 575
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: BMW R1200GS el koruması braketi (sağ/sol)
+Kod / referans: 32727684576
+Katalog veya kaynak adı: BMW sağ el koruma bağlantı braketi
+Kod / referans: 32727684575
+Katalog veya kaynak adı: BMW sol el koruma bağlantı braketi
+Kod / referans: 7684576
+Katalog veya kaynak adı: BMW sağ el koruma bağlantı braketi
+Açıklama: Kısa BMW kodu 32727684576 tam numarasının son yedi hanesidir.
+Kod / referans: 7684575
+Katalog veya kaynak adı: BMW sol el koruma bağlantı braketi
+Açıklama: Kısa BMW kodu 32727684575 tam numarasının son yedi hanesidir.

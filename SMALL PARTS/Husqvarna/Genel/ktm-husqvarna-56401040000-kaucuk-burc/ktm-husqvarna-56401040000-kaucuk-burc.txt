@@ -1,0 +1,14 @@
+Kaizen Trim
+
+KTM/Husqvarna 56401040000 kauçuk burç
+
+Özet:
+Çerçevenin içine giren ve orijinal koruma plakasını (kod 27003090044) yerinde tutan bu iki parçayı kaçırıyordum, bu yüzden bu iki destekleri oluşturdum ve bunları PLA'ye yazdırdım
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: KTM/Husqvarna 56401040000 kauçuk burç
+Kod / referans: 56401040000
+Katalog veya kaynak adı: KTM Husqvarna kauçuk bağlantı burcu
+Kod / referans: 27003090044
+Katalog veya kaynak adı: Husqvarna motor alt koruma takımı
+Açıklama: Kod komple motor alt korumasına aittir; mevcut 3D model bu koruma için burçtur.

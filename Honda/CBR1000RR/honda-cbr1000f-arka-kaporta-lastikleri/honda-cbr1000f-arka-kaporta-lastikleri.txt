@@ -1,0 +1,13 @@
+Kaizen Trim
+
+Honda CBR1000F arka kaporta lastikleri
+
+Özet:
+Yatakta delik bulunan TPU'nin çıktısını alın. destekler yok, 0,2mm yeterli. Tam değil ama benim zevkime yeterince yakın. Yedek parçalar pahalı olduğundan bunu yaptım. Bu yüzden prototip oluşturmak için 6-7 saat harcadım... Parça numaraları: 77211MM5000 ve 77212MM5000
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Honda CBR1000F arka kaporta lastikleri
+Kod / referans: 77211MM5000
+Katalog veya kaynak adı: Honda sağ arka grenaj bağlantı lastiği
+Kod / referans: 77212MM5000
+Katalog veya kaynak adı: Honda sol arka grenaj bağlantı lastiği

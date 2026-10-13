@@ -1,0 +1,11 @@
+Kaizen Trim
+
+Kawasaki kör kapak
+
+Özet:
+Kawasaki KAPAK DUMMMY (11065-0921). Birini kaybettim ve diğerinin bir kopyasını yaptım çünkü ülkemde satın almak pahalı olacak (nakliye nedeniyle). Ender 3 V2'de destekler ile ~40 dakika, 0,4 püskürtme ucu, 0,12 çözünürlük, 35 mm/s'de baskı yapar. Resimler Ninja 300'de gösterir
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Kawasaki kör kapak
+Kod / referans: 11065-0921
+Katalog veya kaynak adı: Kawasaki kör kapak

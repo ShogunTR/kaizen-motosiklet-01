@@ -1,0 +1,13 @@
+Kaizen Trim
+
+KTM 1190 Brodit tablet tutucu adaptörü
+
+Özet:
+Daha ileriye kadar bunu kullanmamanızı öneririm, ilk sürüşte denerken M6 montaj parçalarının arkasına takıldı. Sanırım bunun yerine bu braket adaptörü için kullanmak üzere bükülmüş alüminyum sipariş edeceğim. KTM Adventure 1190 R cihazımda gezinme pedi olarak Samsung Galaxy Active TAB 2 (IIRC) kullanıyorum. Montajı için Aliexpress'den bir payanda ile braket kullandım, Touratech braketnin bir kopyası gibi görünüyor. Başlangıçta Brodit tüp montaj parçasını ancak titreşimler vb. nedeniyle dönmeye/düşmeye devam etti. Bu yüzden bu adaptörü,
+braket ve Brodit 739003 sekme tutucusu. Değişiklik yapmak isteyen olursa Solidworks parça dosyasını ekliyorum. ABS ile baskı yaptım ve destekler olmadan, düz tarafı aşağı bakacak şekilde yazdırmak için gayet iyi çalıştı. M6 vidalarla braketye ve tablet tutucuya doğru M6 vidalarla monte edildi. M4, vidaları tabletin altından, tablet tutucusu ve adaptöründen ve somunları da adaptörün arkasından çıkarın. Dönmeye karşı ekstra güvenlik sağlamak için büyük deliklerden braketnin çevresine kablo bağları monte edilebilir.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: KTM 1190 Brodit tablet tutucu adaptörü
+Kod / referans: 739003
+Katalog veya kaynak adı: Brodit Samsung Galaxy Tab Active kilitli tablet tutucusu
+Açıklama: Kod Brodit tablet tutucusuna aittir; mevcut model KTM Adventure 1190 için montaj adaptörüdür.

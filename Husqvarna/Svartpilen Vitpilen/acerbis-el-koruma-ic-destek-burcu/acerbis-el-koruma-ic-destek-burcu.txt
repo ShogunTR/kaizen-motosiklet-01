@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Acerbis el koruma iç destek burcu
+
+Özet:
+Bu, Acerbis 2205320001 Ralli Profili Siyah el koruması'yi 2023 Husqvarna Svartpilen 401'e sığdırmak içindir. Aynı zamanda dış bağlantı noktası için bir ara parçası da içerir.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Acerbis el koruma iç destek burcu
+Kod / referans: 2205320001
+Katalog veya kaynak adı: Acerbis Rally Profile el koruma takımı
+Açıklama: Bu kod el koruma takımına aittir; mevcut 3D model bu takım için iç destek parçasıdır.

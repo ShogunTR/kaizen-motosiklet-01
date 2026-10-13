@@ -1,0 +1,14 @@
+Kaizen Trim
+
+Aprilia RSV Mille alt çatal tablası kapağı
+
+Özet:
+Aprilia RSV Mille 98–00 çatal tablası kapağının modelini oluşturdum. Dosyada modelin üç sürümü var. Orijinal sürüm, orijinal parçanın kopyasıdır. 1 ve 2 numaralı sürümler, ön tarafı alçaltılmış bir motosiklet için değiştirildi. Orijinal sürüm ve V1, ön grenajın üzerine oturur (orijinaldeki gibi). V2 ise grenajın altına oturmak içindir; motosikletin en düşük yüksekliğe indirildiği durumlarda kullanılır. Orijinal parça numarası AP8148551.
+Orijinal parça PA6 + 15GF malzemeden yapılmıştır ancak yük taşımadığı için UV ışınlarına dayanıklı başka malzemelerden de yapılabilir.
+3D model eski ve kullanılmış bir parçadan oluşturulduğundan, motosikletinize uyması için küçük değişiklikler gerekebilir.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Aprilia RSV Mille alt çatal tablası kapağı
+Kod / referans: AP8148551
+Katalog veya kaynak adı: Aprilia ön grenaj alt kapatma paneli
+Açıklama: Katalogdaki ad Front fairing lower lockup. Model açıklamasındaki alt maşa kapağı ifadesi yerine katalog adı esas alındı.

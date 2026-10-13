@@ -1,0 +1,8 @@
+Kaizen Trim
+
+Honda CRF 250RL uyumlu Givi depo üstü çanta adaptörü
+
+Özet:
+Honda CRF 250 Rally için bir GIVI depo çantası için adaptör yoktu (gidonlar, adaptörün normal GIVI parçalarının sığması için motosiklete cıvatalanacağı şekilde doldurma kapağına çok yakındı) bu yüzden bir tane yapmaya karar verdim. Sonunda 7 versiyon yaptım. İlk 2 versiyon, GIVI montaj halkasını yakıt doldurma kapağının standart montaj konumundan kabaca 35 mm yukarı ve geriye hareket ettirir. Daha sonra, motosikletimin stoktan daha uzun satış sonrası gidonları olduğundan GIVI montaj halkasını standart montajdan yaklaşık 50 mm yukarı ve geriye hareket ettiren başka bir versiyon yaptım
+konum. Daha sonra, 35 ve 50'lerin her biri için birer adet, ayrıca farklı görünüm için desenli alana sahip bir adet 35 olmak üzere, üst kısmı 15 derece geriye doğru eğimli 3 dosya yaptım. "Standart" dosyalar, arka tarafta montaj konumlandırma oyuklarına sahip olan normal depo üstü çantalar içindir. "Afr Twin" Honda Afr içindir. İki. (250'lerin ağabeyi) Givi'ye özel depo üstü çanta ve sağ tarafta montaj konumlandırma girintisi var (normal depo üstü çantalar sığar, yalnızca saat yönünün tersine 90 derece döndürülürler). Ben buna versiyon 1 adını veriyorum, ancak bu daha çok devam eden bir çalışma.
+Test baskım Cura'da 1,6 mm duvarlı ve %20 dolgu ile dilimlendi. PLA'de basılmıştır. Üzerinde durabileceğim kadar güçlü ve hiçbir esnekliği olmayan çok sert, dolayısıyla bu malzemenin/teknolojinin kullanışlı olamayacak kadar zayıf olduğuna dair endişelerim temelsiz görünüyor. Her zaman olduğu gibi, yazıcı, dilimleyici ve kullanılan malzeme sonuçlarınızı etkileyebilir. Bu aynı zamanda yakıt doldurma kapağında aynı cıvata desenini kullanan diğer bazı "andoH" motosikletlere de uyacaktır.

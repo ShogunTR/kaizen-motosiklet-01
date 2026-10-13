@@ -1,0 +1,13 @@
+Kaizen Trim
+
+Aprilia karbüratör hava kutusu bağlantı hortumu
+
+Özet:
+Orijinal Aprilia AP8120382 manifold parçasının yerine kullanılabilecek 3D baskı parça.
+Aprilia Tuareg ile ilgili diğer sorularınız için lütfen yorum bırakın!
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Aprilia karbüratör hava kutusu bağlantı hortumu
+Kod / referans: AP8120382
+Katalog veya kaynak adı: Aprilia karbüratör hava kutusu bağlantı hortumu
+Açıklama: Katalog adı Carburettor-air box hose; dosyadaki Tuareg 600 uyumu bu kaynakla ayrıca doğrulanmadı.

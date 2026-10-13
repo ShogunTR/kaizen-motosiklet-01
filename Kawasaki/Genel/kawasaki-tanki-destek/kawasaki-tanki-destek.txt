@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Kawasaki Tankı destek
+
+Özet:
+Bu, Kawasaki Motosikletleri için bir destekdir. Bunu Kawasaki Ninja 650'nin (AB, ER-6N'dir) 2012 Avrupa Versiyonunda test ettim ve mükemmel çalışıyor. destek için sadece bir mekanik somuna ve tankta bulduğunuz diğer üçüne benzer 3 vidaya ihtiyacınız var. (biraz daha uzun olması daha iyidir).  Herhangi bir sorunuz için bana bir e-posta gönderin; )
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Kawasaki Tankı destek
+Kod / referans: 951170
+Model açıklamasındaki ad: Kawasaki Tankı destek
+Açıklama: Eski dosya adındaki bu sayı için kesin OEM veya model sitesi eşleşmesi bulunamadı. Model adı açıklamadaki işlevden alınmıştır; sayı referans olarak korunmuştur.

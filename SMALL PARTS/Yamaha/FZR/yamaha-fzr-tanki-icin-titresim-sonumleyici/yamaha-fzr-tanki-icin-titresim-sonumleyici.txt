@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Yamaha FZR tankı için titreşim sönümleyici
+
+Özet:
+Motosikletimin titreşim sönümleyicisini kaybettim. İnternette hiçbir yerde bulamadım bu yüzden bunları yaptım. Birincisi orijinalinin bir kopyası ve sanırım yarı esnek ile basılabilir. Diğeri boş, PLA veya ABS ile yazdırmak için.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Yamaha FZR tankı için titreşim sönümleyici
+Kod / referans: 838138
+Model açıklamasındaki ad: Yamaha FZR tankı için titreşim sönümleyici
+Açıklama: Eski dosya adındaki bu sayı için kesin OEM veya model sitesi eşleşmesi bulunamadı. Model adı açıklamadaki işlevden alınmıştır; sayı referans olarak korunmuştur.

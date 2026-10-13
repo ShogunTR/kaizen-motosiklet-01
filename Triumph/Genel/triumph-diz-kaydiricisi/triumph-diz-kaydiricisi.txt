@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Triumph Diz Kaydırıcısı
+
+Özet:
+Yeni zafer logosunu kaydırıcının sonuna kadar bir delik olarak ekledim. Minimum katman yüksekliği ve %10 dolgu baskı yaptım, bu da bir yarış günü için yeterli olacaktır.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Triumph Diz Kaydırıcısı
+Kod / referans: 157114
+Model açıklamasındaki ad: Triumph Diz Kaydırıcısı
+Açıklama: Eski dosya adındaki bu sayı için kesin OEM veya model sitesi eşleşmesi bulunamadı. Model adı açıklamadaki işlevden alınmıştır; sayı referans olarak korunmuştur.

@@ -1,0 +1,13 @@
+Kaizen Trim
+
+Honda Elite 250 gösterge camı çerçevesi
+
+Özet:
+Honda Elite 250 hız göstergesi mercek kaplaması (1987-88 model yılı) için bu tasarım sıfırdan oluşturuldu. Bu parça hız göstergesi merceğinin bir parçasıdır (Honda parça numarası 37211-KM1-831) ve ayrıca satın alınamaz. Parçanın üzerindeki yazılar oldukça küçük olduğundan 50um çözünürlükte baskı yapmalısınız. Gerçekten iyi bir dilimleyiciniz varsa 100um ile kurtulabilirsiniz. Yağ sıfırlama, tetikleme sıfırlama ve saat ayarlama düğmeleri için delikler orijinal parçayla aynıdır, bu nedenle eski bir parçanın kauçuk ekleri bu baskılı parçayla kullanılabilir
+parça.  Ninja Flex'te basılabileceklerini düşünerek Fusion 360'ta kauçuk ekler için CAD dosyasını oluşturmak için biraz zaman harcadım, ancak aslında bunları asla yazdırmadım.  İlgilenirseniz benimle iletişime geçin; eğer hala elimdeyse CAD dosyasını paylaşmaktan memnuniyet duyarım. Bu parçanın uzunluğu 300 mm'nin biraz üzerindedir, dolayısıyla büyük baskı tablası'li bir yazıcı kullanmanız gerekecektir.  Bu parçayı Prusa i3 MK2 baskı tablası (250 mm x 210 mm) üzerine çapraz olarak yazdırdık ve zar zor sığdı. Hava koşullarına daha dayanıklı bir parça için ABS'ye baskı yaptık; Yine de,
+yüksek çözünürlüklü ABS'yi yazdırmak zor olabilir. ABS'de baskı yapmakta zorlanıyorsanız, PLA'deki parçanın ekstra kopyalarından bazılarını yazdırın ve gerektiğinde bunları değiştirin. Bu parça ilginizi çekiyorsa, o zaman muhtemelen Yahoo'daki Honda Elite CH250 Sahipler Grubu'ndan keyif alacaksınız.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Honda Elite 250 gösterge camı çerçevesi
+Kod / referans: 37211-KM1-831
+Katalog veya kaynak adı: Honda Elite 250 hız göstergesi camı

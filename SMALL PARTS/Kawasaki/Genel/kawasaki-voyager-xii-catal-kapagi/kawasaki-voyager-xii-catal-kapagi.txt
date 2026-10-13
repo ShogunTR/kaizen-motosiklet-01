@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Kawasaki Voyager XII çatal kapağı
+
+Özet:
+Dosya bir çatal hata saptırıcısını yazdırır.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Kawasaki Voyager XII çatal kapağı
+Kod / referans: 938960
+Model açıklamasındaki ad: Kawasaki Voyager XII çatal kapağı
+Açıklama: Eski dosya adındaki bu sayı için kesin OEM veya model sitesi eşleşmesi bulunamadı. Model adı açıklamadaki işlevden alınmıştır; sayı referans olarak korunmuştur.

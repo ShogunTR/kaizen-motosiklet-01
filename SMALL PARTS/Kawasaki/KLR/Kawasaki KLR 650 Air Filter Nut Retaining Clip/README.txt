@@ -1,0 +1,8 @@
+Kaizen Trim
+
+Kawasaki KLR-650 Hava Filtresi Somunu sabitleme klipsi
+
+Özet:
+Kawasaki KLR650 sahibi olan ve hava filtresi tespit cıvatasının somununun düşmesiyle ilgili sorun yaşayan biri varsa, bu parçaya ihtiyacınız var. Normalde somun, hava filtresi kutusu'nin destek kolunda sabit tutulur, ancak benimki, zahmetsiz yağla (biraz yapışkan) yapıştı ve yapışkan cıvatayı döndürmenin yarattığı stres nedeniyle tutucuda gevşedi. Artık yerinde durmuyor ve cıvatayı her takmaya çalıştığımda düşüyor. Filtrenin içinde olduğu için filtre takıldığında somunu yerinde tutmanın bir yolu yoktur. sonunda bitirdim
+Sırf onu tekrar bir araya getirmenin sinir bozucu bir mücadele olacağını bildiğim için filtre bakımından kaçınmak. Sonra geçen gün aklıma bir 3D yazıcımın olduğu geldi ve belki de benim için somunu tutacak bir şeyler yapabilirim. Sonuç budur. destek kollarının üzerine yerine oturtuyorsunuz ve siz cıvatayı çalıştırırken o da somunu tutuyor. Normalde birkaç deneme ve bir sürü küfür gerektiren şey, hava filtresi kutusu'nin yeni olduğu zamanki kadar kolay oluyor. Yeterince sıkı duruyor gibi görünüyor ki, gevşemesi konusunda endişelenmeme gerek yok ve
+giriş tarafından emiliyor, ancak geri tepse bile geri tepme perdesi onu yakalayacak ve fazla uzağa gidemeyecektir. Pek çok insanın bunun için bir kullanım alanı bulacağından şüpheliyim, ancak her ihtimale karşı işte burada. (Kendim modellemeden önce çözüm aradığım ilk yer burasıydı) 10/21 Güncellemesi: Daha sıkı tutunmaları için tırnakları biraz daha büyütecek şekilde tasarım değiştirildi. 10/26 Güncellemesi: 5 yıl sonra ve son filtre bakımım itibarıyla hala yerinde duruyordu.

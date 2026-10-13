@@ -1,0 +1,15 @@
+Kaizen Trim
+
+Husqvarna SM TE 610 ayaklık koruma kızağı
+
+Özet:
+[TUR]Husqvarna SM/TE 610 ayak desteği için kaydırıcı. Bu, hem 800087201 hem de 800087200 (sağ ve sol) Husqvarna parçalarına uyar. Tamamı M6 kilitli somun ve M6 havşa başlı vida alyan ile tamamlanır. Tüm krediler: Jacopo Della Rosa[ITA]Orijinal Husqvarna ile uyumlu kaydırıcılar ayak dayama yerleri SM/TE 610. Hem 800087201 hem de 800087200 Husqvarna parçalarına uyar (sağ ve sol) Hepsi M6 kendinden kilitli somun ve M6 Allen başlı havşa cıvatayla tamamlanmalıdır. Tüm krediler: Jacopo Della Rosa
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Husqvarna SM TE 610 ayaklık koruma kızağı
+Kod / referans: 800087201
+Katalog veya kaynak adı: Husqvarna sol ön ayaklık desteği
+Açıklama: Bu kod ayaklık desteğine aittir; mevcut 3D model bu desteğe takılan kızaktır.
+Kod / referans: 800087200
+Katalog veya kaynak adı: Husqvarna sağ ön ayaklık takımı
+Açıklama: Bu kod ayaklık takımına aittir; mevcut 3D model bu takıma eklenen kızaktır.

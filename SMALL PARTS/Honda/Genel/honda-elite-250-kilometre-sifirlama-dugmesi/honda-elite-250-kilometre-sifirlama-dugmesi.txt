@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Honda Elite 250 kilometre sıfırlama düğmesi
+
+Özet:
+Honda Elite 250 trip sıfırlama düğmesine (1987-88 model yılları) yönelik bu tasarım sıfırdan oluşturuldu.  Honda parça numarası 37220-KM1-009'un yerine geçer.  Bu düğmeleri bulmak zor olabileceğinden 3D baskı için iyi bir adaydır. Parça oldukça küçük olduğundan 100um çözünürlükte baskı yapmak isteyeceksiniz.  O zaman bile orijinal parça kadar pürüzsüz görünmeyecektir. Hava koşullarına daha dayanıklı bir parça için ABS'ye baskı yaptık; ancak yüksek çözünürlüklü ABS'yi yazdırmak zor olabilir.  En iyi sonuçları dört parça yazdırdığımızda bulduk
+birer birer yerleştirin ve bunları baskı tablası'nin dört köşesine yakın bir yere koyun.  Bu, bir sonraki katman basılmadan önce plastiğe soğuması için zaman kazandırdı.  Bu olmazsa, küçük şaft çok fazla ısınabilir ve çarpık çıkabilir.  ABS'de baskı yapmakta zorlanıyorsanız, PLA'deki parçanın bazı ekstra kopyalarını yazdırın ve gerektiğinde bunları değiştirin. Bu parça ilginizi çekiyorsa, o zaman muhtemelen Yahoo'daki Honda Elite CH250 Sahipler Grubu'ndan keyif alacaksınız.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Honda Elite 250 kilometre sıfırlama düğmesi
+Kod / referans: 37220-KM1-009
+Katalog veya kaynak adı: Honda Elite 250 kilometre sıfırlama düğmesi

@@ -1,0 +1,6 @@
+Kaizen Trim
+
+ÖN ÇATAL KORUMA KTM DUKE 1995
+
+Özet:
+ÖN ÇATAL KORUMA KTM DUKE 1995dolgu 100%ABS+

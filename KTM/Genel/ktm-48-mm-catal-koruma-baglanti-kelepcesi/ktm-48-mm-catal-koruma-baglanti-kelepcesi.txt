@@ -1,0 +1,12 @@
+Kaizen Trim
+
+KTM 48 mm çatal koruma bağlantı kelepçesi
+
+Özet:
+Çatal contalarımızı korumak için neopren çatal kapakları ("çatal botları" veya "conta koruyucular" olarak da bilinir, KTM P/N: 59501095000) kullanıyoruz. Ancak plastik çatal koruyucuları, süspansiyon çalışırken çatal kapaklarına sürtünür ve ömrünü önemli ölçüde azaltır. Bu çatal kapağı kelepçeleri, çatal kapaklarını yerinde tutarken, onları oluşabilecek hasarlardan korumak için tasarlanmıştır.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: KTM 48 mm çatal koruma bağlantı kelepçesi
+Kod / referans: 59501095000
+Katalog veya kaynak adı: KTM 48 mm neopren ön çatal koruma seti
+Açıklama: Bu kod neopren çatal koruma setine aittir; mevcut 3D model bu set için bağlantı kelepçesidir.

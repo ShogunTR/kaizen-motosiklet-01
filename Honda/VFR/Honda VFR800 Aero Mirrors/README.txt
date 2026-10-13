@@ -1,0 +1,9 @@
+Kaizen Trim
+
+Honda VFR800 Aero Aynalar
+
+Özet:
+Bir üniversite tasarım projesinden oluşturulan özel bir tasarım olan bu aynalar, 6. nesil Honda VFR800 Interceptor'daki daha büyük (çirkin olmasa da) standart aynaların modern, aerodinamik ve şık bir yükseltmesi olacak şekilde yapılmıştır. Ayna sapları, orijinal donanım (siyah soket başlı cıvata ve 4 pul) kullanılarak orijinal ayna tabanlarına cıvatalanır ve 360 ​​derece dönebilen ayna kafası, bir M6 cıvata ve karşılık gelen altıgen somunla (toplam 2 cıvata ve somun) bağlanır. Küçük bir M6 rondela için sapta dairesel bir girinti var.
+Yukarıdakiler için STL'yi dahil ettik; pulun kalınlığı, yüzler arasındaki sürtünmeyi önlemek için ayna sapı ile fırdöndü arasındaki boşluğu belirler. Sağlanan rondela, ayna sapı yüzeyiyle hemen hemen aynı hizada olduğundan, istenirse ince ayar yapmak için dilimleyicinizdeki kalınlığı ayarlayın. Ayna camı özel olarak kesilmelidir, ucuz bir ayna bulmanızı (maksimum ~3,5 mm kalınlığında) ve standart el tipi cam kesme kalemi için kesme kılavuzu olarak verilen şablonu (nihai cam boyutundan biraz daha küçük) kullanmanızı öneririm. ben sadece
+benimkini evde ucuz Walmart makyaj aynalarından kestim, sonra köşeleri zımparaladım. Son olarak, ayna camını fırdöndülerin üzerine çok güçlü bir epoksi veya benzeri bir malzeme ile yapıştırın ve yapışmayı kolaylaştırmak için önce plastik parçayı zımparaladığınızdan emin olun. Baskı kurulumum: Creality Ender 3 v3 KEBambu yüksek hızlı PETG Soğutma yokTree destek (>60 derecelik açılar için)%25 dolgu (kübik)Sap ve ön kenarda döner dik olacak şekilde baskı yapın (daha büyük yarıçaplı kenar baskı plakasına temas eder, Yapı plakasına dik ayna yüzeyi Bu, yüzey kalitesinin ve genel olarak iyileştirmeye yardımcı olur.
+kuvvet. Uzun ince nesnelerin düşmesiyle ilgili endişeleriniz varsa siperlik kullanın. Kenarlar köşelerde bükülme eğiliminde olduğundan yapışkan bir yatak veya sal ile baskı yapmanızı öneririz.

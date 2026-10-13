@@ -1,0 +1,13 @@
+Kaizen Trim
+
+KTM / Husqvarna Supermoto Crashpad'ler (Aks Kaydırıcıları)
+
+Özet:
+KTM / Husqvarna orijinal parça numaraları için yedek parçalar: Arka: 78110945100Ön: 77709945000Husqvarna FE450 2019 cihazım için yedek parça olarak tasarlandı. Vida deliği dışında, arka kaydırıcılar ön ile aynıdır, yalnızca ön kaydırıcılara fabrikada metal bir takviye takılmıştır. Testler bunların gerekli olmadığını kanıtlamıştır, çünkü öğütücüler dolgu sayesinde yeterince sağlamdır. Tüm ölçümler orijinal slaytlar üzerinde yapılmıştır, yani neredeyse 1:1 kopyadır.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: KTM / Husqvarna Supermoto Crashpad'ler (Aks Kaydırıcıları)
+Kod / referans: 77709945000
+Katalog veya kaynak adı: KTM Husqvarna ön aks koruma kızak takımı
+Kod / referans: 78110945100
+Katalog veya kaynak adı: KTM Husqvarna arka aks koruma kızak takımı

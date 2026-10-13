@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Honda CB kesim çerçeve uç kapağı
+
+Özet:
+Bunu '72 CB500K'mdaki çerçevenin açık ucunu kapatmak için yaptım.  Fit kısmı kasıtlı olarak biraz gevşek.  RTV'yi açın veya mıknatıs falan kullanın.  "Ön", kenarları kapatmak için kasıtlı olarak büyük boyutlandırılmıştır ve daha sonra yükseltilmiş kısım, kesilmiş çerçevenin içine sığmaktadır.  Lens olarak kullanmak için şeffaf ABS'ye baskı yaptım.  Ekstra fren lambası görevi görmesi için fren lambasına bağlanan çerçeve borusuna bazı kırmızı LED'ler koyabilir, ayrıca sinyalleryi bunlardan çıkarabilir veya far veya başka bir şey yapabilir.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Honda CB kesim çerçeve uç kapağı
+Kod / referans: 838860
+Model açıklamasındaki ad: Honda CB kesim çerçeve uç kapağı
+Açıklama: Eski dosya adındaki bu sayı için kesin OEM veya model sitesi eşleşmesi bulunamadı. Model adı açıklamadaki işlevden alınmıştır; sayı referans olarak korunmuştur.

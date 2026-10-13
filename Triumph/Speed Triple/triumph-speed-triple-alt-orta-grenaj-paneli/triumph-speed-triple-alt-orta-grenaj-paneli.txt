@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Triumph Speed Triple alt orta grenaj paneli
+
+Özet:
+Triumph Speed ​​Triple 1050'ye uyacak şekilde özel olarak tasarlanmış özel bir göbek kalıbı için sıfırdan eksiksiz bir 3 boyutlu model tasarladım. motosikletin çerçevesi ve alt grenaj alanının hassas ölçümleriyle başlayarak, motosikletin hem işlevsel gereksinimlerini hem de estetik hatlarını yakalayan ayrıntılı bir dijital model oluşturdum. Amaç, uygun açıklık ve hava akışını korurken Speed ​​Triple'ın agresif stiliyle kusursuz bir entegrasyon sağlamaktı. Süreç, her konturun, montaj noktasının ve kenarın modellenmesini içeriyordu.
+Doğrudan prototip oluşturmaya veya üretime geçebilecek hassas bir uyum elde etmek için CAD yazılımı. Ortaya çıkan tasarım yalnızca motosikletin görsel çekiciliğini arttırmakla kalmıyor, aynı zamanda alt motor bölgesinde kapsama ve koruma sağlayan pratik bir bileşen olarak da hizmet veriyor. Bu proje, konseptten uygulamaya kadar karmaşık 3 boyutlu tasarımları doğruluk, işlevsellik ve stile güçlü bir şekilde odaklanarak geliştirme yeteneğimi gösteriyor.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Triumph Speed Triple alt orta grenaj paneli
+Kod / referans: T2303103
+Katalog veya kaynak adı: Triumph Speed Triple alt orta grenaj paneli

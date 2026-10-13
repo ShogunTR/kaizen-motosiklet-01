@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Schraubenabdeckung 7/16" - Harley Davidson veya diğerleri için Vida Kapağı 7/16..
+
+Özet:
+Harley ve 3D baskı, aynı zamanda bir arada: 7/16 vidalar için vida kapakları geçmeli baskılı, malzeme ABS, yani ısıya ve hava koşullarına dayanıklı. Yalnızca 0,15 mm'lik katman kalınlığıyla güzel bir yüzey elde edilir; aseton banyosundan sonra çok parlak bile olabilirler. Rhino dosyası ektedir. STL 4 adet sol ekstruder içerir.  ABS, 0,15 mm, 245 C, 25 dolgu...Rhino .3dm'de ​​basılmıştır, diğer boyutlara kolayca uyum sağlaması sağlanmıştır. STL-File, sol ekstruder kullanılarak aynı anda 4 adet içerir. Gerekirse asetonla düzeltin
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Schraubenabdeckung 7/16" - Harley Davidson veya diğerleri için Vida Kapağı 7/16..
+Kod / referans: 693170
+Model açıklamasındaki ad: Schraubenabdeckung 7/16" - Harley Davidson veya diğerleri için Vida Kapağı 7/16..
+Açıklama: Eski dosya adındaki bu sayı için kesin OEM veya model sitesi eşleşmesi bulunamadı. Model adı açıklamadaki işlevden alınmıştır; sayı referans olarak korunmuştur.

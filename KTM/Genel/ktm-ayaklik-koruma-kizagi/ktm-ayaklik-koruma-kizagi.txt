@@ -1,0 +1,13 @@
+Kaizen Trim
+
+KTM ayaklık koruma kızağı
+
+Özet:
+KTM ayaklıklar parça numarası 78003041050 ve 78003040050 için sürgü çifti, bunlar 2000'den beri çoğu KTM Dirt motosikletinde standart ayaklıkdir(?). motosikletinizi buradan kontrol edin - Tabandaki https://www.motosport.com/oem-parts/part-number/78003041050Holes, M5 altıgen VEYA Kare somunlar içindir, isterseniz bunları sabit hale getirebilirsiniz. Resimlerde gösterilen bir tutma plakası yapmanız gerekecektir, bu 12 mm genişlik x 1,6 kalınlıkta alüminyum şeritten yapılmıştır. 10 mm'lik bir aralıkta 3 deliği vardır, merkez deliği 6,5 mm'dir ve vidalar için 2 adet boşluk deliği 5,5 mm'dir; deliği çok kesin olarak belirlemenize gerek yok
+boyutlara veya malzeme kalınlığına göre. Vidaları somunlara bir miktar mavi loctite ile monte ettim. Nylock'lar işe yarayabilir ancak sıkılırken montaj deliğine de zarar verebilir; benzer şekilde kilit pulları çalışmak için daha fazla tork gerektirebilir ve sıkılırken parçaya zarar verebilir; denemekten ve geri bildirimde bulunmaktan çekinmeyin.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: KTM ayaklık koruma kızağı
+Kod / referans: 78003041050
+Katalog veya kaynak adı: KTM Husqvarna ayaklık dayama parçası
+Açıklama: Kod ayaklık dayama parçasına aittir; mevcut model ayaklık koruma kızağıdır.

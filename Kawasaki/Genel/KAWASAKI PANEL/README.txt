@@ -1,0 +1,6 @@
+Kaizen Trim
+
+KAWASAKI PANELİ
+
+Özet:
+KAWASAKI PANELİ. KEYFİNİ ÇIKARIN.

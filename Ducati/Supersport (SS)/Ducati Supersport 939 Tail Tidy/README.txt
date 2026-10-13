@@ -1,0 +1,9 @@
+Kaizen Trim
+
+Ducati Supersport 939 kısa plakalık
+
+Özet:
+Açıkçası, bu bileşen de dahil olmak üzere motosikletinizde yaptığınız her türlü değişikliğin sonucundan siz sorumlusunuz. Bunu Ducati SuperSport 939'umun yerine kısa plakalık olarak tasarladım. OEM sinyal ışıklarını ve plaka ışığını ve ayrıca ilgili tüm kabloları içerir.  Burada yaptığım gibi monte etmek için birkaç cıvata ve somuna (aşağıda listelenmiştir) ihtiyacınız olacak.  Donanım:2x M6 x 20mm uzunluğunda cıvatalar1x M6 x 25mm uzunluğunda cıvata3x M6 somunları2x M8 x 35mm uzunluğunda cıvatalar (1,25 adımlı olduklarından emin olun)Kurulum
+notlar: -OEM 2 bölümlü plastik aksamı önceden motosikletten çıkarmanız gerekecektir. -3 OEM ışığının tümünün kablolarını çıkarın; hiçbir şeyi kesmeyin!-2 adet büyük torx cıvatasını el altında bulundurun-plaka'yi ve vidalarını çıkarın-plaka ışığını kablosuyla birlikte OEM düzeneğinden çıkarın ve vidalarını el altında tutun-Plaka ışığını oem vidalarıyla montaj parçasına takın ve kabloyu delikten geçirin-Taban parçasını 2 orijinal torx vidasıyla dik tarafı yukarı bakacak şekilde takın motora en yakın delikleri kullanarak.  Emin olmak
+kablolarınız artık delikten çıkıyor (gevşemenin bir kısmını aşağıya itmeniz gerekecek; biraz yaratıcı olmaya hazır olun) -motosikletin kablolarını bağlantı parçasındaki delikten geçirin -M6 somunlarınızı bağlantı parçasının üst kısmındaki deliklere yerleştirin -Sağladığınız 2 uzun M8 cıvatayla bağlantı parçasını cıvatalayın -sinyallernizi takın ve takın ( kablolar OEM kablolarında L ve R olarak işaretlenmiştir)-Plaka ışığınızı takın-Her şeyi yerine oturtun ve kapağı alttan (üstten) kısa M6 cıvatalarla takın
+delikler somunları yakalar) - Plakanızı OEM vidalarla takın - Sürüşe başlamadan önce her şeyi doğru taktığınızdan emin olmak için ışıklarınızı test edin! Açıkçası, bu bileşen de dahil olmak üzere motosikletinizde yaptığınız her türlü değişikliğin sonucundan siz sorumlusunuz.

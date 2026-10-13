@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Indian Polaris 4 mm kauçuk geçiş burcu
+
+Özet:
+Bir stok salmastrayı ölçtüm ve Fusion 360'ta bir salmastra yaptım. Modlar için orijinal Fusion 360 dosyasını ekledim. Daha iyisini yaparsanız lütfen geri etiketleyin. Bunu rakibim için yaptım. Bazı kötü lastik rondelalar vardı, bu yüzden bazılarını TPU'dan yaptım. Yan plastikler fabrika rondelalarından daha sıkı duruyor gibi görünüyor. Benim için iyi çalışıyor. Paylaşmak istedim. Qidi Q1/Plus4 yazıcılarımda ağaç destekler ve genel TPU ayarlarıyla bastım, 85a tpu kullandım.  İyi basılmıştır. Düzenleme: 5-16-25 Bunun ikinci bir modelini ekledim, burada bazı kenarları ve merkezi daralttım
+bazı.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Indian Polaris 4 mm kauçuk geçiş burcu
+Kod / referans: 5437772
+Katalog veya kaynak adı: Indian Polaris 4 mm kauçuk geçiş burcu

@@ -1,0 +1,16 @@
+Kaizen Trim
+
+Aprilia SR 50 Factory sağ/sol kapakları
+
+Özet:
+Aprilia SR 50 Factory sağ/sol kapakları.
+AP8268060
+AP8268061
+Kullanım için STL dosyasının değiştirilmesi gerekiyor. Bu yalnızca iyi bir başlangıç modeli!
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Aprilia SR 50 Factory sağ/sol kapakları
+Kod / referans: AP8268060
+Katalog veya kaynak adı: Aprilia SR 50 sol tünel yan kapağı
+Kod / referans: AP8268061
+Katalog veya kaynak adı: Aprilia SR 50 sağ tünel yan kapağı

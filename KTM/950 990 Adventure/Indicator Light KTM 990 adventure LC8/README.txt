@@ -1,0 +1,9 @@
+Kaizen Trim
+
+Gösterge Işığı KTM 990 macera LC8
+
+Özet:
+Bu yaz feribotta KTM 990 Adventure R aracımın dönüş sinyalini kırdılar. Başlangıçta onu yapıştırmaya çalıştım, ancak sadece birkaç gün sürdü, değiştirmek istediğime ikna oldum, orijinal dönüş sinyalinin maliyetini kontrol ettim (gerçekte sadece 35 €) ve kendime bunu kendim yapıp yapamayacağımı sordum. Neden hala orijinal olanları seçmelisiniz? Arazi için optimize edilmişlerdir ve düşme durumunda bile kırılmazlar, ancak sökülebilirler. Adım adım gidelim: 1) oku sökün ve konnektörün bağlantısını kesin. 2) şeffaf camı sökün 3)
+parabolün bize doğru çekilerek çıkarılması gerekir. Kilitleme mekanizması fotoğraflarda görülmektedir.4) tablaya bağlı konnektörleri ayırın5) orijinal cıvatayı tekrar kullanabilmek için okun sapını parçalara ayırın6) eski cıvatayı mümkün olan en iyi şekilde temizlemenin bir yolunu bulun (bağlı kalan tüm plastiği eritmek için yaktım)7) YENİ OKUNUZU YAZDIRIN. Offroad'a daha da uygun olsun diye TPU'de yaptım, ne kadar dayanacak göreceğiz.8) kabloları yeninin içine yerleştirin
+gövde9) basit bir hamle ile cıvatayı yuvasına yapıştırın ve montaj için ters yönde ilerleyin. Orjinaliyle karşılaştırıldığında sabitleme pimi eksik ancak kısa bir vida takılarak sorun çözülebilir. Baskı kalitesini artırmak için bunu yapmayı tercih ettim. Dikey baskı yaparken sadece cıvata kısmı için desteklere ihtiyacım vardı. DÜZENLEME: Birkaç enduro turundan ve en az 3000 km kat edildikten sonra göstergeler sıcak egzozda bile harika çalışıyor! ingilizce versiyonuBu yaz feribotta oklarımdan biri
+KTM 990 Adventure R bozuldu. Başlangıçta yapıştırmayı denedim ama sadece birkaç gün sürdü. Onu değiştirmek istediğimden emin olarak, orijinal okun fiyatını kontrol ettim (aslında sadece 35 €) ve kendim yapabilir miyim diye merak ettim. Neden tekrar orijinalleri seçmelisiniz? Arazi için optimize edilmişlerdir ve düşme durumunda bile kırılmazlar, parçalanırlar.Hadi adım atalım

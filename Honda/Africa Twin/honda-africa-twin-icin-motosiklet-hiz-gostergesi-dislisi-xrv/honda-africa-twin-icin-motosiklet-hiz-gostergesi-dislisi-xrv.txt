@@ -1,0 +1,12 @@
+Kaizen Trim
+
+Honda Africa Twin için motosiklet hız göstergesi dişlisi (XRV750)
+
+Özet:
+Bu, Honda Africa Twin için bir motosiklet hız göstergesinin yedek dişlisidir. Aynı zamanda XL-600V, XL-650V, XRV-750 için de çalışır. Kendim test etmedim ancak PLA'den Makerbot 2 ile yazdırıldığında boyutta küçük bir fark olduğu söylendi. Muhtemelen yazdırma işleminden kaynaklanmaktadır. Farklı bir baskıyla ve/veya çok hafif bir yeniden boyutlandırmayla çalışabilir. Güncelleme: %102'de yazdır
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Honda Africa Twin için motosiklet hız göstergesi dişlisi (XRV750)
+Kod / referans: 327750
+Model açıklamasındaki ad: Honda Africa Twin için motosiklet hız göstergesi dişlisi (XRV750)
+Açıklama: Eski dosya adındaki bu sayı için kesin OEM veya model sitesi eşleşmesi bulunamadı. Model adı açıklamadaki işlevden alınmıştır; sayı referans olarak korunmuştur.

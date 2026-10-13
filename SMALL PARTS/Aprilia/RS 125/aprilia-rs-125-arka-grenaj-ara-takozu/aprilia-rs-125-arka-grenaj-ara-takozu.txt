@@ -1,0 +1,11 @@
+Kaizen Trim
+
+Aprilia RS 125 arka grenaj ara takozu
+
+Özet:
+1995'ten 1999'a kadar Aprilia RS 125 (2T) için arka grenaj arka tutma çubuğu delikleri için lastik kapaklar, aynı zamanda Amico 50 aynalarda da kullanılır. Bunlar parça No. 3013888 / AP8220331 ve 3013894 / AP8220347Bu parça, kullanılmış bir orijinal parçanın ve web'den çok sayıda resmin sağlanan 3 boyutlu taramasından tersine mühendislikle geliştirilmiştir. RS 125'e takmak için optimize edilmemiştir ve parça yalnızca RS 125'te kullanılmamıştır. Bu parçaların esnek olması gerekir, bu nedenle bunları TPU ile yazdırmanızı öneririm veya başka esnek malzeme. Sol ve sağ taraf için iki STL.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Aprilia RS 125 arka grenaj ara takozu
+Kod / referans: AP8220331
+Katalog veya kaynak adı: Aprilia kauçuk ara takoz

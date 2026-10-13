@@ -1,0 +1,6 @@
+Kaizen Trim
+
+Lasercut YAMAHA DTMX 125 18G-15451-03-00 KRANK KAPAK CONTASI
+
+Özet:
+18G-15451-03-00 için SVG - Orijinal parçalardan KRANK KAPAK CONTASI

@@ -1,0 +1,11 @@
+Kaizen Trim
+
+Honda arka fren diski koruma kapağı
+
+Özet:
+Bu fren muhafazası, OEM muhafazasının yedek parçası olarak tasarlanmıştır. Honda XRV650 ve XRV750 ile Sahra çölünde yapılan bir yolculuk sırasında CollorFabb'ın PA-CF'sinde test edildi.
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Honda arka fren diski koruma kapağı
+Kod / referans: 43330MN9000
+Katalog veya kaynak adı: Honda arka fren diski koruma kapağı

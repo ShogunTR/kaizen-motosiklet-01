@@ -1,0 +1,13 @@
+Kaizen Trim
+
+Piaggio Scooter Üst Kutusunun değiştirilmesi 'klips' mandalı
+
+Özet:
+Piaggio Liberty 50cc scooter'ımın üst kutusu kırıldı ve kilidi kırıldı. Tekrar kırılmak için yeni bir kilit almaya gerçekten değmezdi ve kilit olmadan kapak öylece sallanıyordu ki...Yeni bir 'klips' kilidi tasarladım. Kimseyi dışarıda tutmaz ama kapağın açılmasını engeller ve kırık bir kilitten daha iyi görünür! Takmak için - mandalı sabitlemek için bir delik bırakan kırık kilidi çıkardım. Tüm parçaları 0,3 mm'de yazdırın destekler veya sallara gerek yok.   Mandal sabitlemesinin dişli kısmını mandal yuvasına kaydırın (önce kısa taraf) - sabitleyin
+cıvata ile.'Mandal'ı üst kutu tabanına yapıştırın (fotoğraftaki gibi) MakerBolt Seti örneğini temel alan cıvata ve diş - teşekkürler! Bu, gösterilen üst kutuya çok özeldir ancak diğer kutu türleri için de uyarlanabileceğinden eminim? Keyfini çıkarın!
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Piaggio Scooter Üst Kutusunun değiştirilmesi 'klips' mandalı
+Kod / referans: 369264
+Model açıklamasındaki ad: Piaggio Scooter Üst Kutusunun değiştirilmesi 'klips' mandalı
+Açıklama: Eski dosya adındaki bu sayı için kesin OEM veya model sitesi eşleşmesi bulunamadı. Model adı açıklamadaki işlevden alınmıştır; sayı referans olarak korunmuştur.

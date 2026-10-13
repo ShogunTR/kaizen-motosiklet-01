@@ -1,0 +1,7 @@
+Kaizen Trim
+
+Kawasaki Vulcan 900 Emme Borusu
+
+Özet:
+Kawasaki Vulcan 900 Klasik Emme Tüpü. motosikletim 2006 model, ancak bunun diğer birkaç yılın modellerine de uyduğundan eminim. Sıcaklığa ve UV'ye dayanıklı bir malzemeye baskı yapmanız gerekecek. Benimkini ASA'de yazdırdım, ancak PETG işe yarayacak ve aslında başlangıçta hesapladığım kadar ısınmayacak. 2,5 inç flanşlı konik hava filtresi kullandım (https://www.amazon.com/dp/B08PP1CYQM?ref=ppx_yo2ov_dt_b_fed_asin_title&amp;th=1). Ayrıca, conta yapmak için bir Felpro conta sayfası (https://www.amazon.com/Fel-Pro-3157-Gasket-Material/dp/B000CNISM2?source=ps-sl-shoppingads-lpcontext&amp;ref_=fplfs&amp;psc=1&amp;smid=ATVPDKIKX0DER&amp;gQT=1)) kullandım. Orijinal hava filtresi kutusu cıvatalarını mı kullandım yoksa satın almam mı gerekti mi hatırlamıyorum, ancak metrik satan herhangi bir hırdavat mağazası
+Donanım ihtiyacınız olan şeye sahip olmalıdır. Ayrıca karter havalandırmasını da yeniden yönlendirmeniz gerekecektir. Karter havalandırmamı ucuz bir yağ toplama kutusundan (https://www.amazon.com/dp/B0BNKVTDNY?ref=ppx_yo2ov_dt_b_fed_asin_title), bobin paketlerinin yakınına monte edilmiştir) geçirmeyi seçtim. Bu girişi yaklaşık bir yıldır hiçbir sorun olmadan çalıştırıyorum. Bu projenin tümünün maliyeti yaklaşık 50 $, ki bu hala diğer Vulcan giriş seçeneklerinden çok daha ucuz. Yazdırma, yatağa yapışma sorunları nedeniyle yazıcımda bir deneme yanılma yöntemiydi. En iyi seçeneğiniz, yazıcınızda iyi çalışan ayarlarla başlamak ve oradan ince ayar yapmaktır.

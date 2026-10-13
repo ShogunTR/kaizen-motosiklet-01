@@ -1,0 +1,8 @@
+Kaizen Trim
+
+Husqvarna 401 kısa plakalık 3D baskılı (Harici parça gerekmez - tüm stok bileşenler)
+
+Özet:
+Lütfen dikkatlice okuyun! Bu, Husqvarna Vitpilen/Svarpilen 401 modelleri 2020 ve sonrası için benim kısa plakalık versiyonumdur. Çevrimiçi olarak satın alınabilecek bazı modeller var, ancak kendiminkini yapmaya ve herkese açık olarak paylaşmaya karar verdim. Bu, Husqvarna'nın AB modelidir, dolayısıyla kuyruk tasarımının sizin için de aynı olduğundan emin olun. Bağlantıyı test etmek için 2 duvarlı ve %5 dolgu içeren bir test parçası yazdırmanızı ve ardından tüm parçayı yazdırmanızı öneririm. Modelin aynı zamanda Vitpilen/Svarpilen 125 ve belki 701'e de uyduğundan eminim, eğer onlar da aynı kuyruğu kullanıyorlarsa
+tasarım, ancak test etmek için bu motosikletlere erişimim olmadığı için onaylayamadım. Bunu 7 duvarlı ve% 60 dolgu ile 0,4 mm'lik bir nozül üzerine beyaz PLA (daha sonra spreyle siyaha boyandı) olarak bastım, bu tamamen abartılıydı ve muhtemelen herhangi bir sorunla karşılaşmadan çok daha azıyla kurtulabilirsiniz. Testlerimdeki parçanın zayıf noktası her zaman kuyruğa cıvatalarla oturan girintilerin geriye doğru uzanan 2 kolla buluştuğu kısım olmuştur, çünkü parça daha güçlü hale getirilemez veya stok cıvatalar bozulur.
+uymuyor veya parça motosiklete sığmayacak kadar kalınlaşıyor. (Sabitlik için bu 2 tüp için %100 dolgu olduğundan emin olmanızı öneririm) Bu nedenle, ekstra stabilite için sinyaller stoğuna bağlanan parçanın etrafına bir fermuar takmak için parçanın iç kısmında / her iki yanında 2 küçük çentik bulunur. Kurulum için zorunlu değildirler, parça dayanabilir

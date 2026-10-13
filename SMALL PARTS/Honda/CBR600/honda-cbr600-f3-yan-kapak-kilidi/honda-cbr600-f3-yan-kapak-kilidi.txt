@@ -1,0 +1,13 @@
+Kaizen Trim
+
+Honda CBR600 F3 yan kapak kilidi
+
+Özet:
+Bu, Honda parça numaraları 83508KBG000 (durdurucu, ekteki diyagramda #2) ve 83611MV9000 (kilit, #5) parça numaralarının yeniden oluşturulmuş halidir. OEM parçasındaki sürtünmeyle geçmeli metal pim (2x14, #8) ile bir arada tutulan iki parçadan oluşur. Mevcut değil gibi görünüyorlar
+
+Parça ve model açıklaması — 13.10.2026
+Model adı: Honda CBR600 F3 yan kapak kilidi
+Kod / referans: 83611MV9000
+Katalog veya kaynak adı: Honda yan kapak kilidi
+Kod / referans: 83508KBG000
+Katalog veya kaynak adı: Honda yan kapak anahtar gövdesi dayama parçası
